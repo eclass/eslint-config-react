@@ -1,3 +1,9 @@
 {
-  "extends": ["@eclass:js-lib"]
+  "extends": ["@eclass:js-lib"],
+  "packageRules": [
+    {
+      "packageNames": ["eslint-plugin-react-hooks"],
+      "allowedVersions": "<3"
+    }
+  ]
 }
