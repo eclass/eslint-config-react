@@ -7,7 +7,6 @@ module.exports = {
     'prettier/react',
     'prettier/standard'
   ],
-  plugins: ['standard'],
   rules: {
     '@typescript-eslint/consistent-type-assertions': 'off',
     '@typescript-eslint/no-angle-bracket-type-assertion': 'off',
