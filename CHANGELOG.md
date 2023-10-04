@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/eclass/eslint-config-react/compare/v2.0.0...v2.1.0) (2023-10-04)
+
+
+### Features
+
+* **renovate:** update project to node18 ([#354](https://github.com/eclass/eslint-config-react/issues/354)) ([6071d73](https://github.com/eclass/eslint-config-react/commit/6071d73b42beaecce55a71b7cc52de9bbbbc7131))
+
 # [2.0.0](https://github.com/eclass/eslint-config-react/compare/v1.0.0...v2.0.0) (2021-02-15)
 
 
