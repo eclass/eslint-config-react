@@ -1,6 +1,6 @@
 {
   "name": "@eclass/eslint-config-react",
-  "version": "2.1.0",
+  "version": "2.0.0",
   "description": "eslint shareable config for react",
   "main": "index.js",
   "scripts": {
@@ -42,7 +42,7 @@
     "@typescript-eslint/eslint-plugin": "6.7.4",
     "@typescript-eslint/parser": "6.7.4",
     "babel-eslint": "10.1.0",
-    "eslint": "8.50.0",
+    "eslint": "8.45.0",
     "eslint-plugin-flowtype": "8.0.3",
     "eslint-plugin-import": "2.28.1",
     "eslint-plugin-jsx-a11y": "6.7.1",
@@ -60,7 +60,7 @@
     "@typescript-eslint/eslint-plugin": "^2.28.0 || ^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0",
     "@typescript-eslint/parser": "^2.28.0 || ^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0",
     "babel-eslint": "^10.1.0",
-    "eslint": ">=5",
+    "eslint": ">=5 || >=6 || >=7 || >=8",
     "eslint-plugin-flowtype": "^4.7.0 || ^5.0.0 || ^6.0.0 || ^7.0.0 || ^8.0.0",
     "eslint-plugin-import": "^2.20.2",
     "eslint-plugin-jsx-a11y": "^6.2.3",
