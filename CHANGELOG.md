@@ -1,3 +1,10 @@
+## [2.1.1](https://github.com/eclass/eslint-config-react/compare/v2.1.0...v2.1.1) (2023-10-06)
+
+
+### Bug Fixes
+
+* **eslint:** accept others version eslint ([#357](https://github.com/eclass/eslint-config-react/issues/357)) ([a941980](https://github.com/eclass/eslint-config-react/commit/a9419808a292bc9541331387d5740eaf84547d7b))
+
 # [2.1.0](https://github.com/eclass/eslint-config-react/compare/v2.0.0...v2.1.0) (2023-10-04)
 
 
